@@ -1,6 +1,6 @@
 ---
 title       : BMI Calculator
-subtitle    : An Application for calculating and classifying Body Mass Index
+subtitle    : An application for calculating and classifying Body Mass Index
 author      : 
 job         : 
 framework   : io2012  # {io2012, html5slides, shower, dzslides, ...}
